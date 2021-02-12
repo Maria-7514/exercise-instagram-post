@@ -1,0 +1,43 @@
+body{background: rgb(168, 167, 167);
+margin:0;}
+.container{width: 600px;
+            margin: auto;}
+
+.post-header {background: white;
+    margin:0;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    height: 40px;
+                        display: flex;
+                    flex-direction: row;
+                flex-wrap: nowrap;
+            }
+
+img{width: 600px;
+           height: 600px;  }
+
+.post-items{background: white; 
+    margin:0;
+    padding-left: 20px;
+    padding-top: 20px;
+ display:flex;
+    flex-direction: row;
+    flex-wrap: nowrap;}
+.post-body{background: white;
+margin: 0;}
+
+
+
+
+p{padding-left: 20px;
+padding-bottom: 20px;
+font-size: 20px;}
+
+.texto{padding-left: 10px;
+font-size:20px;}
+
+.libro{padding-left: 400px;}
+.puntitos{padding-left: 400px;}
+.comment, .avion{padding-left:10px;}
